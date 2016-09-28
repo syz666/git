@@ -3,4 +3,5 @@
 3、git commit -m "提交说明“                ----                          完成提交操作
 4、git status                              ----                          查看git状态
 5、git diff                                ----                          查看修改变动
-
+6、git log                                 ----                          打印各项提交
+7、git reset --hard HEAD^                  ----                          回退到最近一个提交前的版本
