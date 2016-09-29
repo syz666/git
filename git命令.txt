@@ -25,5 +25,6 @@
 远程到本地仓库：
 12、git clone git@github.com:syz666/远程仓库名.git                        把远程仓库克隆到本地
 
-
+分支：
+13、git branch                              ----                          查看分支
 
