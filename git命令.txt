@@ -19,3 +19,4 @@
   在github上新建一个git仓库\
 
 10、git remote add origin git@github.com:syz666/git                       将本地git仓库的文件提交到github
+11、git push origin master                  ----                          将本地git仓库的修改提交到远程仓库github
