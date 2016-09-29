@@ -1,3 +1,4 @@
+基础命令：
 1、 git init                                ----                          创建git本地仓库
 2、 git add 文件名.文件格式                 ----                          添加文件到仓库
 3、 git commit -m "提交说明“                ----                          完成提交操作
@@ -8,4 +9,13 @@
 8、 git reflog                              ----                          打印所有的提交
 
 9、 git checkout --文件名.文件格式          ----				 撤销在缓存区的最近一次修改
-10、
+
+远程命令:
+  准备：
+  vim .ssh                                  ----                          创建ssh文件夹
+  cd .ssh
+  ssh-keygen -t rsa -C "syz3015@126.com"    ----                          创建私钥和公钥
+  在github上添加本地生成的公钥
+  在github上新建一个git仓库\
+
+10、git remote add origin git@github.com:syz666/git                       将本地git仓库的文件提交到github
