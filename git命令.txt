@@ -27,4 +27,10 @@
 
 分支：
 13、git branch                              ----                          查看分支
+14、git branch dev                          ----                          添加一个名为"dev"的分支
+15、git branch -d dev                       ----                          删除 dev 分支
 
+分支切换：
+16、git checkout dev                        ----                          切换到 dev 分支
+
+ 
