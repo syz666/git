@@ -32,5 +32,8 @@
 
 分支切换：
 16、git checkout dev                        ----                          切换到 dev 分支
+17、git checkout -b bug                     ----                          添加 bug 分支，并切换到 bug 分支
 
+分支合并：
+18、git merge 
  
