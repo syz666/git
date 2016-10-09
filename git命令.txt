@@ -35,5 +35,6 @@
 17、git checkout -b bug                     ----                          添加 bug 分支，并切换到 bug 分支
 
 分支合并：
+  合并前切换到主分支：git checkout master
 18、git merge 分支名
  
