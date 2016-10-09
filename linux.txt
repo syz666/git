@@ -6,4 +6,7 @@
 5、vim                                                   ----          打开vim
 6、vim 已存在文件名                                      ----          打开已存在文件
 7、vim 新文件名                                          ----          创建新文件并编辑
+8、sudo su                                               ----          进入root
+9、apt-get update                                        ----          更新
+10、apt-get upgrade                                      ----          安装
 
