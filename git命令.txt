@@ -37,4 +37,8 @@
 分支合并：
   合并前切换到主分支：git checkout master
 18、git merge 分支名
+
+标签：
+19、git tag v1.0                            ----                         为当前head 添加v1.0 标签
+
  
